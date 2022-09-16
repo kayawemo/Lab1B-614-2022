@@ -1,0 +1,3 @@
+C:/Users/kayod/OneDrive/Desktop/Uoc/614/Lab_to_submit/Lab1B-614-2022/cmake-build-debug/CMakeFiles/Lab1B_614_2022.dir
+C:/Users/kayod/OneDrive/Desktop/Uoc/614/Lab_to_submit/Lab1B-614-2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kayod/OneDrive/Desktop/Uoc/614/Lab_to_submit/Lab1B-614-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
